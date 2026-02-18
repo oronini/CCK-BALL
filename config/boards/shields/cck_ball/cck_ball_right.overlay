@@ -61,8 +61,8 @@
         x-input-code = <0>;
         y-input-code = <1>;
 
-        scroll-layers = <3>;
-        snipe-layers = <4>;
+      // scroll-layers = <3>;
+      // snipe-layers = <4>;
       // automouse-layer = <3>;
     };
 };
